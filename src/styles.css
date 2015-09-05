@@ -1,0 +1,16 @@
+.tl-update  {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
+
+.tl-quote {
+  text-align: center;
+  margin: 20px;
+  border-radius: 2px;
+  padding: 20px
+}
+
+.tl-header-row {
+  padding-left: 20px;
+}
